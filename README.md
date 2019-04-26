@@ -5,3 +5,4 @@
 #### Writing
 
 * [Email](writing-email.md)
+* [Daily](writing-daily.md)
