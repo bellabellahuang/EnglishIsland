@@ -5,3 +5,4 @@
 ### Email Endings
 
         Wishing you a wonderful day.
+        Warmly.
