@@ -18,7 +18,7 @@
 * braces {}
 * parentheses ()
 * apostrophe '
-* Quotations marks
+* quotations marks
 	
 		single quotations marks ''
 		double quotations marks ""
