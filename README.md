@@ -9,4 +9,4 @@
 
 #### Vocabulary
 
-* [Punctuation](punctuation.txt)
+* [Punctuation](punctuation.md)
