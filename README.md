@@ -6,6 +6,7 @@
 
 * [Email](writing-email.md)
 * [Daily](writing-daily.md)
+* [Inspiring Sentences](inspiring-sentences.md)
 
 #### Vocabulary
 
