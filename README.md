@@ -11,4 +11,5 @@
 #### Vocabulary
 
 * [Punctuation](punctuation.md)
+* [Short Phrases](short-phrases.md)
 * [Space](space.md)
