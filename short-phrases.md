@@ -36,3 +36,9 @@
 * depend on
 * instead of
 * in fact
+* in other words
+* of no kind
+* speaking of
+* in common
+* every now and then
+* hold sb's attention
