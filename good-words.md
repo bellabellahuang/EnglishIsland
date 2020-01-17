@@ -6,6 +6,7 @@
 
 * undeniably
 * accordingly
+* remarkably
 
 #### Adjective
 
