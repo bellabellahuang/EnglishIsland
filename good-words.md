@@ -1,3 +1,7 @@
+#### Personality
+
+* self-esteem
+
 #### Noun
 
 * freak (enthusiast)
