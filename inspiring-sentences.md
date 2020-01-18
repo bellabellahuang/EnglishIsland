@@ -8,4 +8,5 @@
 * Every writer is starting from a different point and is bound for a different destination.
 * The gains far outweigh the hazards.
 * Always look for ways to make yourself available to the people you're trying to reach.
-* No area of life is stupid to someone who takes it seriously. 
+* No area of life is stupid to someone who takes it seriously.
+* Never let anything go out into the world that you don't understand. 
