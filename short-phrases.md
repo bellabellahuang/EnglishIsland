@@ -24,6 +24,7 @@
 * however
 * whether
 * otherwise
+* thereafter
 
 #### 短语搭配
 
@@ -49,3 +50,12 @@
 * every now and then
 * hold sb's attention
 * by all means
+* take part in
+* in short
+* donzens of
+* as soon as
+* tape recorder
+* violate the cultural integrity
+* along with
+* to what extent
+* achieve a balance between
