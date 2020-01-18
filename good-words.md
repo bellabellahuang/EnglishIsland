@@ -2,6 +2,13 @@
 
 * self-esteem
 
+#### Job
+
+* writer
+* novelist
+* journalist
+* reporter
+
 #### Noun
 
 * freak (enthusiast)
@@ -11,6 +18,8 @@
 * undeniably
 * accordingly
 * remarkably
+* ultimately
+* eventually
 
 #### Adjective
 
