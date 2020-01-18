@@ -28,3 +28,4 @@
 #### verb
 
 * overstate
+* rephrase
