@@ -7,6 +7,8 @@
 * [Email](writing-email.md)
 * [Daily](writing-daily.md)
 * [Inspiring Sentences](inspiring-sentences.md)
+* [Conparison Phrases](comparison-phrases.md)
+* [Conclusion Phrases](conclusion-phrases.md)
 
 #### Vocabulary
 
