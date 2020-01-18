@@ -15,3 +15,7 @@
 #### Adjective
 
 * unthinkable
+
+#### verb
+
+* overstate
