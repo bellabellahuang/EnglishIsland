@@ -5,10 +5,16 @@
 #### 表因果
 
 * thus
+* thereby
+
+#### 表同时
+
+* meanwhile
 
 #### 对比
 
 * on the other hand
+* on the contrary
 * whereas
 
 #### Conjunction
@@ -42,3 +48,4 @@
 * in common
 * every now and then
 * hold sb's attention
+* by all means
