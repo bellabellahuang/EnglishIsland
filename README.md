@@ -4,11 +4,11 @@
 
 #### Writing
 
-* [Email](writing-email.md)
-* [Daily](writing-daily.md)
+* [Email](writing/writing-email.md)
+* [Daily](writing/writing-daily.md)
 * [Inspiring Sentences](inspiring-sentences.md)
-* [Conparison Phrases](comparison-phrases.md)
-* [Conclusion Phrases](conclusion-phrases.md)
+* [Conparison Phrases](writing/comparison-phrases.md)
+* [Conclusion Phrases](writing/conclusion-phrases.md)
 
 #### Vocabulary
 
