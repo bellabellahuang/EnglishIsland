@@ -59,3 +59,8 @@
 * along with
 * to what extent
 * achieve a balance between
+* in a few cases
+* in certain cases
+* side by side
+* the isles of Greece
+* two-edged
