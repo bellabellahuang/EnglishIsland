@@ -8,3 +8,5 @@
 * Always look for ways to make yourself available to the people you're trying to reach.
 * No area of life is stupid to someone who takes it seriously.
 * Never let anything go out into the world that you don't understand. 
+* Eliminate every such fact that is a known attribute.
+* The article that records everything you did on your trip will fascinate you because it was your trip.
