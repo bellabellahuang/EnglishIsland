@@ -15,4 +15,5 @@
 * [Punctuation](punctuation.md)
 * [Short Phrases](short-phrases.md)
 * [Space](space.md)
+* [Animals](animals.md)
 * [Good Words](good-words.md)
