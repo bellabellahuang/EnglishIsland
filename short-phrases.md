@@ -17,6 +17,10 @@
 * on the contrary
 * whereas
 
+#### 举例子
+
+* for instance
+
 #### Conjunction
 
 * once
