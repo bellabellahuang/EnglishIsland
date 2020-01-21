@@ -2,6 +2,11 @@
 
 * self-esteem
 
+#### Status
+
+* sophomore
+* junior
+
 #### Job
 
 * writer
@@ -12,6 +17,7 @@
 #### Noun
 
 * freak (enthusiast)
+* by-product
 
 #### Adverbial
 
@@ -20,6 +26,7 @@
 * remarkably
 * ultimately
 * eventually
+* disorderly
 
 #### Adjective
 
