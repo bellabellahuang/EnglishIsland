@@ -15,6 +15,7 @@
 
 * on the other hand
 * on the contrary
+* by contrast
 * whereas
 
 #### 举例子
@@ -69,3 +70,11 @@
 * side by side
 * the isles of Greece
 * two-edged
+* as the day went on
+* a sense of belonging
+* keep informed
+* a variety of
+* accomplish the goal
+* toxic waste
+* three-dimensional
+* fire extinguisher
