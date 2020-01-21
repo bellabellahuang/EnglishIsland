@@ -1,3 +1,5 @@
 #### Birds
 
 * seagull
+* chimpanzee
+* vulture
