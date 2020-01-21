@@ -32,6 +32,13 @@
 * thereafter
 * besides
 
+#### Objects
+
+* tape recorder
+* fire extinguisher
+* the isles of Greece
+
+
 #### 短语搭配
 
 * as long as
@@ -58,16 +65,13 @@
 * in short
 * donzens of
 * as soon as
-* tape recorder
 * along with
 * to what extent
 * in a few cases
 * in certain cases
 * side by side
-* the isles of Greece
 * two-edged
 * as the day went on
 * keep informed
 * a variety of
 * three-dimensional
-* fire extinguisher
