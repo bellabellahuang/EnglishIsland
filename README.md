@@ -12,9 +12,9 @@
 
 #### Vocabulary
 
-* [Punctuation](punctuation.md)
+* [Punctuation](vocabulary/punctuation.md)
 * [Short Phrases](short-phrases.md)
-* [Space](space.md)
-* [Animals](animals.md)
-* [Plants](plants.md)
+* [Space](vocabulary/space.md)
+* [Animals](vocabulary/animals.md)
+* [Plants](vocabulary/plants.md)
 * [Good Words](good-words.md)
