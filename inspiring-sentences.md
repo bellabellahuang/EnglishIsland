@@ -10,3 +10,4 @@
 * Never let anything go out into the world that you don't understand. 
 * Eliminate every such fact that is a known attribute.
 * The article that records everything you did on your trip will fascinate you because it was your trip.
+* How we write and how we talk is how we define ourselves.
