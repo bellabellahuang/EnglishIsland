@@ -10,6 +10,7 @@
 * [Conparison Phrases](writing/comparison-phrases.md)
 * [Conclusion Phrases](writing/conclusion-phrases.md)
 * [Environment Topic](writing/environment.md)
+* [Advantages](writing/advantages.md)
 
 #### Vocabulary
 

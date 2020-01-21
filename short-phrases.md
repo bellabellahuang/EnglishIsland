@@ -54,7 +54,6 @@
 * speaking of
 * in common
 * every now and then
-* hold sb's attention
 * by all means
 * take part in
 * in short
@@ -64,17 +63,13 @@
 * violate the cultural integrity
 * along with
 * to what extent
-* achieve a balance between
 * in a few cases
 * in certain cases
 * side by side
 * the isles of Greece
 * two-edged
 * as the day went on
-* a sense of belonging
 * keep informed
 * a variety of
-* accomplish the goal
-* toxic waste
 * three-dimensional
 * fire extinguisher
