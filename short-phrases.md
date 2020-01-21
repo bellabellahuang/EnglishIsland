@@ -41,7 +41,6 @@
 * out of sight
 * chill out
 * fixed boundaries
-* risk sb's reputation
 * stick to your choice
 * back and forth
 * deal with
@@ -60,7 +59,6 @@
 * donzens of
 * as soon as
 * tape recorder
-* violate the cultural integrity
 * along with
 * to what extent
 * in a few cases

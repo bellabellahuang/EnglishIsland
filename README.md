@@ -11,6 +11,7 @@
 * [Conclusion Phrases](writing/conclusion-phrases.md)
 * [Environment Topic](writing/environment.md)
 * [Advantages](writing/advantages.md)
+* [Disadvantages](writing/disadvantages.md)
 
 #### Vocabulary
 
