@@ -1,0 +1,4 @@
+#### Subjects
+
+* philosophy
+* psychology
