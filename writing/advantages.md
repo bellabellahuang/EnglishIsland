@@ -4,3 +4,4 @@
 * a sense of belonging
 * achieve a balance between
 * hold sb's attention
+* broaden the possibilities of
