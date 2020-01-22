@@ -31,6 +31,7 @@
 * otherwise
 * thereafter
 * besides
+* thenceforth
 
 #### Objects
 
@@ -75,3 +76,10 @@
 * keep informed
 * a variety of
 * three-dimensional
+* base on
+* lose sight of
+* vice-versa
+* be aware of
+* down payment
+* take advantage of
+* lose patience
