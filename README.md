@@ -18,6 +18,7 @@
 * [Space](vocabulary/space.md)
 * [Animals](vocabulary/animals.md)
 * [Plants](vocabulary/plants.md)
+* [Subjects](vocabulary/subjects.md)
 * [Punctuation](vocabulary/punctuation.md)
 * [Short Phrases](short-phrases.md)
 * [Good Words](good-words.md)
