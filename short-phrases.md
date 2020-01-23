@@ -1,6 +1,7 @@
 #### 表转折
 
 * therefore
+* however
 
 #### 表因果
 
@@ -11,12 +12,38 @@
 
 * meanwhile
 
-#### 对比
+#### 表组成
+
+* consist of
+
+#### 表顺承
+
+* once
+* along with
+* as the day went on
+* every now and then
+
+#### 表条件
+
+* as long as
+* as soon as
+* no matter what/how
+* depend on
+
+#### 表代替
+
+* instead of
+* in other words
+* in short
+
+#### 对比/相反
 
 * on the other hand
 * on the contrary
 * by contrast
 * whereas
+* otherwise
+* vice-versa
 
 #### 举例子
 
@@ -24,11 +51,8 @@
 
 #### Conjunction
 
-* once
 * nevertheless
-* however
 * whether
-* otherwise
 * thereafter
 * besides
 * thenceforth
@@ -38,48 +62,42 @@
 * tape recorder
 * fire extinguisher
 * the isles of Greece
-
+* windowsill
 
 #### 短语搭配
 
-* as long as
 * no longer
 * ought to
-* consist of
 * out of sight
 * chill out
 * fixed boundaries
 * stick to your choice
 * back and forth
 * deal with
-* no matter what/how
-* depend on
-* instead of
 * in fact
-* in other words
-* of no kind
 * speaking of
 * in common
-* every now and then
-* by all means
 * take part in
-* in short
-* donzens of
-* as soon as
-* along with
 * to what extent
-* in a few cases
-* in certain cases
 * side by side
 * two-edged
-* as the day went on
 * keep informed
-* a variety of
 * three-dimensional
 * base on
 * lose sight of
-* vice-versa
 * be aware of
 * down payment
 * take advantage of
 * lose patience
+* convey a sense of enjoyment
+* keep myself cheered up
+* have no sense of humor
+* turn out to be
+* unexpected corner
+* be suited for
+* come up with
+* be fond of
+* pull open a drawer
+* sort out
+* safe and sound
+* how the decisions get made
