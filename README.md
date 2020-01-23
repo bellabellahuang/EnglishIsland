@@ -20,5 +20,6 @@
 * [Plants](vocabulary/plants.md)
 * [Subjects](vocabulary/subjects.md)
 * [Punctuation](vocabulary/punctuation.md)
+* [Job Titles](vocabulary/job-titles.md)
 * [Short Phrases](short-phrases.md)
 * [Good Words](good-words.md)
