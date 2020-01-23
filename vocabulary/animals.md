@@ -1,5 +1,11 @@
 #### Birds
 
 * seagull
-* chimpanzee
 * vulture
+* pigeon
+* crow
+* gull
+* mockingbirds
+
+#### Mammal
+* chimpanzee
