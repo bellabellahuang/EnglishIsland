@@ -7,17 +7,13 @@
 * sophomore
 * junior
 
-#### Job
-
-* writer
-* novelist
-* journalist
-* reporter
-
 #### Noun
 
 * freak (enthusiast)
 * by-product
+* audacity
+* afterthoughts
+* quest
 
 #### Adverbial
 
@@ -27,12 +23,17 @@
 * ultimately
 * eventually
 * disorderly
+* occasionally
 
 #### Adjective
 
 * unthinkable
+* accountable
+* tremendous
+* market-driven
 
 #### verb
 
 * overstate
 * rephrase
+* jump-start
