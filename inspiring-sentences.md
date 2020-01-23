@@ -11,3 +11,7 @@
 * Eliminate every such fact that is a known attribute.
 * The article that records everything you did on your trip will fascinate you because it was your trip.
 * How we write and how we talk is how we define ourselves.
+* There is no party line.
+* Dying is no big deal. Living is the trick.
+* Push the boundaries of your subject and see where it takes you. Bring some part of your own life to it; it's not your version of the story until you write it.
+* Much of the trouble that writers get into comes from trying to make one sentence do too much work.
