@@ -15,3 +15,4 @@
 * Dying is no big deal. Living is the trick.
 * Push the boundaries of your subject and see where it takes you. Bring some part of your own life to it; it's not your version of the story until you write it.
 * Much of the trouble that writers get into comes from trying to make one sentence do too much work.
+* Decide what you want to do. Then decide to do it. Then do it.
