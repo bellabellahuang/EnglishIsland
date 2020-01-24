@@ -19,7 +19,9 @@
 * dancer
 * painter
 * musician
+* art collectors
 
 #### Others
 
 * psychiatrist
+* trader
