@@ -1,6 +1,7 @@
 #### Personality
 
 * self-esteem
+* self-descipline
 
 #### Status
 
@@ -14,6 +15,7 @@
 * audacity
 * afterthoughts
 * quest
+* inhabitants
 
 #### Adverbial
 
