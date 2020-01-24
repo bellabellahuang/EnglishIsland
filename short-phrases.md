@@ -63,6 +63,9 @@
 * fire extinguisher
 * the isles of Greece
 * windowsill
+* tourist-infested cities
+* the three-lined city
+* a masked dance
 
 #### 短语搭配
 
@@ -101,3 +104,5 @@
 * sort out
 * safe and sound
 * how the decisions get made
+* pop into my head
+* the point of view
