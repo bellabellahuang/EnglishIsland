@@ -66,6 +66,8 @@
 * tourist-infested cities
 * the three-lined city
 * a masked dance
+* rafter
+* windmill
 
 #### 短语搭配
 
@@ -106,3 +108,15 @@
 * how the decisions get made
 * pop into my head
 * the point of view
+* kick off the shoes
+* in spite of the fact
+* keep the flies off
+* clear his throat
+* turn black into white
+* refresh memory
+
+#### others
+* foreleg
+* barn
+* stall
+* seesaw
