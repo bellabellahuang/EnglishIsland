@@ -6,7 +6,12 @@
 * crow
 * gull
 * mockingbirds
+* raven
+* sparrow
 
 #### Mammal
 * chimpanzee
 * camel
+* donkey
+* mare
+* boar
