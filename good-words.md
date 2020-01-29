@@ -2,6 +2,7 @@
 
 * self-esteem
 * self-descipline
+* the worst tempered
 
 #### Status
 
@@ -16,6 +17,8 @@
 * afterthoughts
 * quest
 * inhabitants
+* root cause
+* tale-bearer
 
 #### Adverbial
 
@@ -33,6 +36,7 @@
 * accountable
 * tremendous
 * market-driven
+* toothless
 
 #### verb
 
