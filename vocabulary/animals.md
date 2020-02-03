@@ -15,3 +15,4 @@
 * donkey
 * mare
 * boar
+* cockerel
