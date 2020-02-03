@@ -114,9 +114,15 @@
 * clear his throat
 * turn black into white
 * refresh memory
+* urgently necessary
+* rain or shine
+* out of spite
+* food shortage
+* make up my mind
 
 #### others
 * foreleg
 * barn
 * stall
 * seesaw
+* sleet
