@@ -5,3 +5,5 @@
 * hay
 * straw
 * clover
+* wheat
+* crop
