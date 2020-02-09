@@ -30,6 +30,10 @@
 * no matter what/how
 * depend on
 
+#### 表开始
+
+* to begin with
+
 #### 表代替
 
 * instead of
@@ -68,6 +72,9 @@
 * a masked dance
 * rafter
 * windmill
+* shoelaces
+* dorrknob
+* angle-joint
 
 #### 短语搭配
 
@@ -119,6 +126,14 @@
 * out of spite
 * food shortage
 * make up my mind
+* squeeze out some childhood memory
+* give a quick glance
+* make effort to
+* verify guess
+* let out a belch
+* the damage to the ecosystem
+* make no difference
+* make for the door
 
 #### others
 * foreleg
@@ -126,3 +141,5 @@
 * stall
 * seesaw
 * sleet
+* marbled
+* Mediterranean
