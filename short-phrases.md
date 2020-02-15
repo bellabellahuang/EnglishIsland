@@ -75,6 +75,7 @@
 * shoelaces
 * dorrknob
 * angle-joint
+* paper weight
 
 #### 短语搭配
 
@@ -134,6 +135,8 @@
 * the damage to the ecosystem
 * make no difference
 * make for the door
+* take the risk
+* out of question
 
 #### others
 * foreleg
