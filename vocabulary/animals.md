@@ -17,3 +17,4 @@
 * boar
 * cockerel
 * porpoise
+* thrush
