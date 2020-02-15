@@ -7,3 +7,5 @@
 * clover
 * wheat
 * crop
+* anemone
+* coral
