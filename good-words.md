@@ -3,6 +3,7 @@
 * self-esteem
 * self-descipline
 * the worst tempered
+* self-possession
 
 #### Status
 
