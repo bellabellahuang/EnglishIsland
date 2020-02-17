@@ -18,3 +18,4 @@
 * Decide what you want to do. Then decide to do it. Then do it.
 * The seconds were ticking by.
 * For the future, for the unborn.
+* The end was contained in the beginning.
