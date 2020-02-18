@@ -137,6 +137,7 @@
 * make for the door
 * take the risk
 * out of question
+* racial discrimination
 
 #### others
 * foreleg
