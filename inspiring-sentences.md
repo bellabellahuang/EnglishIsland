@@ -19,3 +19,4 @@
 * The seconds were ticking by.
 * For the future, for the unborn.
 * The end was contained in the beginning.
+* In the long run, a hierarchical society was only possible on a basis of poverty and ignorance.
