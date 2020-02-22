@@ -140,6 +140,11 @@
 * racial discrimination
 * go off the rails
 * give way to
+* the good of the majority
+* endure liberty
+* face the truth
+* a three-sided mirror
+* without exception
 
 #### others
 * foreleg
