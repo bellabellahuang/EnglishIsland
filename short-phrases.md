@@ -145,6 +145,8 @@
 * face the truth
 * a three-sided mirror
 * without exception
+* take my side
+* all of a sudden
 
 #### others
 * foreleg
