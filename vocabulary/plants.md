@@ -10,3 +10,5 @@
 * anemone
 * coral
 * bluebell
+* dandelion
+* daisy
