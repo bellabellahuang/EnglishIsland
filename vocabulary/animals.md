@@ -8,6 +8,7 @@
 * mockingbirds
 * raven
 * sparrow
+* swallow
 
 #### Mammal
 * chimpanzee
