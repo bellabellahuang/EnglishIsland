@@ -26,3 +26,4 @@
 * psychiatrist
 * trader
 * solicitor
+* herbalist
