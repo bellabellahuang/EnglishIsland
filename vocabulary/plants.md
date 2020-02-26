@@ -12,3 +12,5 @@
 * bluebell
 * dandelion
 * daisy
+* calendula		金盏花
+* chamonile		甘菊
