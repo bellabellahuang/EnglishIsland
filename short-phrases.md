@@ -147,6 +147,7 @@
 * without exception
 * take my side
 * all of a sudden
+* even things out
 
 #### others
 * foreleg
