@@ -4,6 +4,7 @@
 * self-descipline
 * the worst tempered
 * self-possession
+* an appetite for unconventionality
 
 #### Status
 
