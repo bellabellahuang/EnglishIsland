@@ -14,3 +14,4 @@
 * daisy
 * calendula		金盏花
 * chamonile		甘菊
+* irises		鸢尾花
