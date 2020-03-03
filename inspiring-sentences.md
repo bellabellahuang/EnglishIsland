@@ -22,3 +22,4 @@
 * In the long run, a hierarchical society was only possible on a basis of poverty and ignorance.
 * I am going to have to take matters in my own hands.
 * That's what a good training partner is for, to push you beyond your limits.
+* We made it with no time to spare.
