@@ -15,3 +15,10 @@
 * penicillin			青霉素
 * antibiotics			抗生素
 * strep					链球菌
+* depression 			抑郁
+* mania					狂躁
+* paranoia				偏执
+* euphoria				欣快
+* delusions of grandeur	夸大妄想
+* persecution			被害妄想
+* schizophrenia			精神分裂
